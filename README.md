@@ -1,4 +1,1 @@
-Understanding-UsingCPointers
-============================
-
-Exercise for &lt;Understanding and Using C Pointers>
+*** Understanding and Using C Pointers ***
